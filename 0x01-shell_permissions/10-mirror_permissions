@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod stats -c %a hello olleh
+chmod --refrence=Rhello olleh
